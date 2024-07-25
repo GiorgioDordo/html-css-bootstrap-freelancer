@@ -3,10 +3,7 @@ header {
     background-color: rgb(47, 70, 90);
 }
 
-.portfolio-image {
-    height: 300px;
-    background-color: pink;
-}
+
 
 .list-menu-color {
     color: white;
@@ -24,6 +21,24 @@ img {
     max-width: 100%;
 }
 
+.section-bg-color {
+    background-color: rgb(28,188,156);
+}
+
 .img-border-round {
     border-radius: 8px;
+}
+
+.star-break {
+    font-size: 25px;
+}
+
+.line-break {
+    border-bottom: 3px solid;
+    width: 60px;
+    margin: 0 10px;
+}
+
+.avatar-image {
+    width: 200px;
 }
