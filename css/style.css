@@ -42,3 +42,7 @@ img {
 .avatar-image {
     width: 200px;
 }
+
+.btn-send-color {
+    background-color: rgb(28,188,156);
+}
