@@ -46,3 +46,22 @@ img {
 .btn-send-color {
     background-color: rgb(28,188,156);
 }
+
+footer {
+    background-color: rgb(58,84,109);
+}
+
+.icon-border-round {
+    font-size: 15px;
+    padding: 10px 10px;
+    border-radius: 50%;
+}
+
+.container-footer-bottom {
+    height: 100px;
+    background-color: rgb(43,63,80);
+}
+
+.footer-link-bootstrap {
+    color: rgb(8, 202, 8);
+}
